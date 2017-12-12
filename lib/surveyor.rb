@@ -5,6 +5,3 @@ module Surveyor
 end
 
 require "surveyor/application"
-
-require "surveyor/rom"
-require "surveyor/repos/survey_repo"
